@@ -1,4 +1,4 @@
-This is my first token
+This is my first token contract
 
 I have learned how to make a token contract, use testing and how to deploy to the sepolia contract 
 
